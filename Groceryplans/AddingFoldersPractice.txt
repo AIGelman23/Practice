@@ -1,1 +1,3 @@
 This was practice to add a new folder to GitHub Repository for our Grocery Store Plans
+
+I will add more file to this sub folder now. ***
